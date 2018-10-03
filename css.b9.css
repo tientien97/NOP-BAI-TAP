@@ -1,0 +1,14 @@
+div {
+    width: 150px;
+    height: 150px;
+}
+#box1 {
+    background-color: red;
+}
+#box2 {
+    background-color: green;
+    margin-top: 32px;
+    border: 2px solid red;
+    padding: 45px;
+
+}
