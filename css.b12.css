@@ -1,0 +1,11 @@
+div {
+    background-image: url("https://cdn.tgdd.vn/Products/Images/42/147939/samsung-galaxy-s9-plus-64gb-xanh-san-ho-2-1-600x600.jpg"), url("https://cdn.fptshop.com.vn/Uploads/Originals/2018/8/20/636703736254310068_note9-xanh-1.jpg");
+    height: 600px;
+    width: 300px;
+    color: red;
+    padding: 55px;
+    background-repeat: no-repeat;
+    background-position: bottom left, top right;
+    background-size: 100px, 400px;
+
+}
