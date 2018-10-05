@@ -1,0 +1,9 @@
+.inline {
+    background-color: #e8e8e8;
+    border: 1px solid red;
+    display: inline;
+}
+.block {
+    background-color: blue;
+    display: block;
+}
